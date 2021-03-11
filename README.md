@@ -1,6 +1,6 @@
 # Boilerplate for MeteorJS
 
-This includes a basic react and auth setup.
+This includes a basic react with authentication setup.
 
 ## Technologies & Tools Used
 
@@ -15,4 +15,4 @@ This includes a basic react and auth setup.
 
 ## Author
 
-Created and maintained by Mahmudul Hasan Sreejon ([@mahmudul-hasan-sreejon](http://mahmudulhasansreejon.ml/)).
+Created and maintained by Mahmudul Hasan Sreejon ([@mahmudul-hasan-sreejon](https://www.mahmudul-hasan-sreejon.com/)).
